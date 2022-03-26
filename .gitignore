@@ -1,0 +1,9 @@
+target
+data
+bin
+.settings
+.classpath
+.metadata
+Notes.docx
+
+/results
